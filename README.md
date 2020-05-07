@@ -1,2 +1,2 @@
 # first-angular-app
-Pierwsza aplikacja w angularze, linkowanie stylów bootstrapa
+https://merkury32.github.io/first-angular-app/
